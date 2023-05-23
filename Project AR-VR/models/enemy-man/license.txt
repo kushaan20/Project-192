@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jack Sparrow Pirates of Caribbean
+* source:	https://sketchfab.com/3d-models/jack-sparrow-pirates-of-caribbean-53b7afe2e33d413db3f94fcba4da9943
+* author:	Elite 3D (https://sketchfab.com/Elite3DModelling)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jack Sparrow Pirates of Caribbean" (https://sketchfab.com/3d-models/jack-sparrow-pirates-of-caribbean-53b7afe2e33d413db3f94fcba4da9943) by Elite 3D (https://sketchfab.com/Elite3DModelling) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
